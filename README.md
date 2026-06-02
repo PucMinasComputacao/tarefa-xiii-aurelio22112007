@@ -12,12 +12,8 @@ IMPORTANTE: Assim como informado anteriormente, capriche na etapa pois você vai
 
 ## Prints do trabalho
 
-<<  COLOQUE A IMAGEM - TELA DE CARDS DE PRODUTOS - AQUI >>
-![Tela Inicial](imgs/captura_inicial.png)
+![Tela Inicial](tarefa-xiii-aurelio22112007/imgs/captura_inicial.png)
 
-<<  COLOQUE A IMAGEM - TELA DE DETALHE DO PRODUTO - AQUI >>
-![Tela de Detalhes](imgs/captura_detalhes.png)
+![Tela de Detalhes](tarefa-xiii-aurelio22112007/imgs/captura_detalhes.png)
 
-<<  COLOQUE A IMAGEM - TELA DO CONSOLE - AQUI >>
-![Tela do Console](imgs/console.png)
-
+![Tela do Console](tarefa-xiii-aurelio22112007/imgs/console.png)
