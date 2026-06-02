@@ -7,14 +7,17 @@ IMPORTANTE: Assim como informado anteriormente, capriche na etapa pois você vai
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Aurélio Augusto
+- Matricula: 923291
 
 ## Prints do trabalho
 
 <<  COLOQUE A IMAGEM - TELA DE CARDS DE PRODUTOS - AQUI >>
+![Tela Inicial](imgs/captura_inicial.png)
 
 <<  COLOQUE A IMAGEM - TELA DE DETALHE DO PRODUTO - AQUI >>
+![Tela de Detalhes](imgs/captura_detalhes.png)
 
 <<  COLOQUE A IMAGEM - TELA DO CONSOLE - AQUI >>
+![Tela do Console](imgs/console.png)
 
