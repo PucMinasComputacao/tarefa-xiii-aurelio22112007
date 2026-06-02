@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DevFreela - Anunciar Nova Vaga</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="navbar">
+        <a href="home.html" class="logo">🚀 DevFreela</a>
+        <a href="home.html" class="btn-voltar">⬅ Voltar para o Mural</a>
+    </header>
+
+    <main class="container">
+        <div style="max-width: 600px; margin: 0 auto; background: white; padding: 2rem; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+            <h2>Anunciar Nova Vaga de Freela</h2>
+            <br>
+            <form id="form-cadastro">
+                <div style="margin-bottom: 1rem;">
+                    <label style="display:block; margin-bottom: .5rem; font-weight:600;">Título do Projeto</label>
+                    <input type="text" id="titulo" required style="width:100%; padding:.6rem; border:1px solid #ccc; border-radius:6px;">
+                </div>
+
+                <div style="margin-bottom: 1rem;">
+                    <label style="display:block; margin-bottom: .5rem; font-weight:600;">Categoria</label>
+                    <select id="categoria" required style="width:100%; padding:.6rem; border:1px solid #ccc; border-radius:6px;">
+                        <option value="Front-End">Front-End</option>
+                        <option value="Back-End">Back-End</option>
+                        <option value="Design">Design</option>
+                        <option value="CMS">CMS</option>
+                    </select>
+                </div>
+
+                <div style="margin-bottom: 1rem;">
+                    <label style="display:block; margin-bottom: .5rem; font-weight:600;">Orçamento (R$)</label>
+                    <input type="number" id="preco" required style="width:100%; padding:.6rem; border:1px solid #ccc; border-radius:6px;">
+                </div>
+
+                <div style="margin-bottom: 1rem;">
+                    <label style="display:block; margin-bottom: .5rem; font-weight:600;">Descrição Curta</label>
+                    <input type="text" id="descricaoCurta" required style="width:100%; padding:.6rem; border:1px solid #ccc; border-radius:6px;">
+                </div>
+
+                <div style="margin-bottom: 1rem;">
+                    <label style="display:block; margin-bottom: .5rem; font-weight:600;">Descrição Completa</label>
+                    <textarea id="descricaoCompleta" required rows="4" style="width:100%; padding:.6rem; border:1px solid #ccc; border-radius:6px;"></textarea>
+                </div>
+
+                <button type="submit" class="btn-candidatar" style="width:100%; padding:1rem; font-size:1rem;">Cadastrar Vaga</button>
+            </form>
+        </div>
+    </main>
+
+    <script src="cadastro.js"></script>
+</body>
+</html>

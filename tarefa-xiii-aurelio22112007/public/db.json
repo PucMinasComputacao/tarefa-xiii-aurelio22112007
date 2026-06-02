@@ -1,0 +1,186 @@
+{
+  "vagas": [
+    {
+      "id": "1",
+      "titulo": "Desenvolvimento de Landing Page",
+      "descricaoCurta": "Criar uma página de vendas responsiva para uma hamburgueria local.",
+      "descricaoCompleta": "Precisamos de um desenvolvedor front-end para criar uma Landing Page moderna e otimizada para uma hamburgueria. O design já está pronto no Figma. É necessário usar HTML, CSS e JavaScript puro. Prazo de entrega: 15 dias.",
+      "imagem": "https://picsum.photos/400/250?random=1",
+      "categoria": "Front-End",
+      "preco": 600,
+      "tags": [
+        "HTML",
+        "CSS",
+        "Responsivo"
+      ],
+      "destaque": true
+    },
+    {
+      "id": "2",
+      "titulo": "API REST em Node.js",
+      "descricaoCurta": "Criar um sistema de login e cadastro integrado com banco de dados.",
+      "descricaoCompleta": "Procuramos desenvolvedor para criar o backend de um app. É necessário criar rotas de cadastro, login e recuperação de senha utilizando Node.js e Express. O banco de dados pode ser MongoDB ou PostgreSQL.",
+      "imagem": "https://picsum.photos/400/250?random=2",
+      "categoria": "Back-End",
+      "preco": 1200,
+      "tags": [
+        "Node.js",
+        "Express",
+        "API"
+      ],
+      "destaque": true
+    },
+    {
+      "id": "3",
+      "titulo": "Ajustes em Layout WordPress",
+      "descricaoCurta": "Corrigir bugs visuais em um site institucional de advocacia.",
+      "descricaoCompleta": "O site atual apresenta problemas de quebra de layout em dispositivos móveis (celulares). Precisamos de alguém com experiência em WordPress e CSS elementar para ajustar as margens e fontes.",
+      "imagem": "https://picsum.photos/400/250?random=3",
+      "categoria": "CMS",
+      "preco": 350,
+      "tags": [
+        "WordPress",
+        "CSS",
+        "Bugs"
+      ],
+      "destaque": false
+    },
+    {
+      "id": "4",
+      "titulo": "Criação de Logotipo e Identidade",
+      "descricaoCurta": "Desenvolvimento de marca para uma nova startup de finanças.",
+      "descricaoCompleta": "Buscamos designer para criar o logotipo, paleta de cores e tipografia para uma Fintech. O entregável deve incluir o arquivo aberto no Illustrator/Figma e um guia de marca em PDF.",
+      "imagem": "https://picsum.photos/400/250?random=4",
+      "categoria": "Design",
+      "preco": 800,
+      "tags": [
+        "Figma",
+        "Design",
+        "Logo"
+      ],
+      "destaque": false
+    },
+    {
+      "id": "5",
+      "titulo": "Dashboard Administrativo",
+      "descricaoCurta": "Desenvolver painel de controle com gráficos usando React.",
+      "descricaoCompleta": "Vaga para desenvolvedor Front-End pleno. Criação de um dashboard para exibição de vendas e métricas de usuários. Gráficos integrados com a biblioteca Chart.js.",
+      "imagem": "https://picsum.photos/400/250?random=5",
+      "categoria": "Front-End",
+      "preco": 2500,
+      "tags": [
+        "React",
+        "JavaScript",
+        "Charts"
+      ],
+      "destaque": true
+    },
+    {
+      "id": "6",
+      "titulo": "Configuração de Servidor AWS",
+      "descricaoCurta": "Fazer deploy de aplicação e configurar certificado SSL.",
+      "descricaoCompleta": "Configurar uma instância EC2 na AWS, apontar o domínio do cliente, configurar o Nginx e instalar o certificado digital gratuito Let's Encrypt (HTTPS).",
+      "imagem": "https://picsum.photos/400/250?random=6",
+      "categoria": "Back-End",
+      "preco": 500,
+      "tags": [
+        "AWS",
+        "Linux",
+        "DevOps"
+      ],
+      "destaque": false
+    },
+    {
+      "id": "7",
+      "titulo": "Loja Virtual WooCommerce",
+      "descricaoCurta": "Cadastrar produtos e configurar métodos de pagamento.",
+      "descricaoCompleta": "Instalar e configurar uma loja virtual em WordPress utilizando WooCommerce. Configurar frete via Correios/Melhor Envio e checkout transparente do Mercado Pago.",
+      "imagem": "https://picsum.photos/400/250?random=7",
+      "categoria": "CMS",
+      "preco": 1800,
+      "tags": [
+        "WooCommerce",
+        "E-commerce"
+      ],
+      "destaque": true
+    },
+    {
+      "id": "8",
+      "titulo": "Prototipagem de Aplicativo Mobile",
+      "descricaoCurta": "Criar telas de alta fidelidade para app de delivery no Figma.",
+      "descricaoCompleta": "Contratação de UI/UX Designer para desenhar o fluxo completo de um app de entregas (Tela de login, mapa, restaurante, carrinho e histórico). Cerca de 12 telas no total.",
+      "imagem": "https://picsum.photos/400/250?random=8",
+      "categoria": "Design",
+      "preco": 1500,
+      "tags": [
+        "UI/UX",
+        "Figma",
+        "Mobile"
+      ],
+      "destaque": false
+    },
+    {
+      "id": "9",
+      "titulo": "E-mail Marketing Promocional",
+      "descricaoCurta": "Desenvolvimento de HTML estruturado para e-mail marketing.",
+      "descricaoCompleta": "Codificar uma peça de e-mail marketing em tabelas HTML garantindo que ela seja exibida corretamente no Outlook, Gmail e Apple Mail. O design será fornecido.",
+      "imagem": "https://picsum.photos/400/250?random=9",
+      "categoria": "Front-End",
+      "preco": 300,
+      "tags": [
+        "HTML",
+        "Email",
+        "Marketing"
+      ],
+      "destaque": false
+    },
+    {
+      "id": "10",
+      "titulo": "Automação de Planilhas com Python",
+      "descricaoCurta": "Script para ler PDFs e extrair dados para o Excel.",
+      "descricaoCompleta": "Criar um script em Python que leia relatórios em formato PDF gerados pelo sistema antigo do cliente, extraia dados financeiros específicos e os organize em uma planilha Excel limpa.",
+      "imagem": "https://picsum.photos/400/250?random=10",
+      "categoria": "Back-End",
+      "preco": 700,
+      "tags": [
+        "Python",
+        "Automação",
+        "Excel"
+      ],
+      "destaque": true
+    },
+    {
+      "titulo": "aurélio",
+      "categoria": "Front-End",
+      "preco": 2000,
+      "descricaoCurta": "quero fazer um software",
+      "descricaoCompleta": "fazer um grande software\n",
+      "imagem": "https://picsum.photos/400/250?random=6",
+      "tags": [
+        "Novo",
+        "Freela"
+      ],
+      "destaque": false,
+      "id": "pjgtjiZ9ZXg"
+    }
+  ],
+  "categorias": [
+    {
+      "id": "1",
+      "nome": "Front-End"
+    },
+    {
+      "id": "2",
+      "nome": "Back-End"
+    },
+    {
+      "id": "3",
+      "nome": "Design"
+    },
+    {
+      "id": "4",
+      "nome": "CMS"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
